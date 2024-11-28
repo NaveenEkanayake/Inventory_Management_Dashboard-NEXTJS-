@@ -1,2 +1,2 @@
-npm instll = insall packages
+npm install = insall packages
 npm run dev = run the project 

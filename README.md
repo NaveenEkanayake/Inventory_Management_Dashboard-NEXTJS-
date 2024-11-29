@@ -26,8 +26,8 @@ git clone https://github.com/NaveenEkanayake/Inventory_Management_Dashboard-NEXT
 
 ---
 
-### frontend - npm install 
-### Server - npm install 
+### I. frontend - npm install 
+### II. Server - npm install 
 
 ### 3. Run your project
 ---

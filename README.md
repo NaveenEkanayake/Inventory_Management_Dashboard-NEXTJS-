@@ -21,7 +21,7 @@ To enhance usability, a **settings menu** in the navbar allows administrators to
 Follow these steps to get the project running locally:
 
 ### 1. Clone the repository:
-git clone https://github.com/NaveenEkanayake/inventory-management-dashboard.git
+git clone https://github.com/NaveenEkanayake/Inventory_Management_Dashboard-NEXTJS-.git
 
 ### 2. Install dependecies
 

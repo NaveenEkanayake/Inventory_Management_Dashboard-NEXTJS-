@@ -15,11 +15,17 @@ Additionally, it features:
 To enhance usability, a **settings menu** in the navbar allows administrators to switch between **light** and **dark** themes, offering a personalized user experience tailored to individual preferences.
 
 
-## Installation
+### Installation
+
+---
+
 
 Follow these steps to get the project running locally:
 
 ### 1. Clone the repository:
+
+---
+
 git clone https://github.com/NaveenEkanayake/Inventory_Management_Dashboard-NEXTJS-.git
 
 ### 2. Install dependecies

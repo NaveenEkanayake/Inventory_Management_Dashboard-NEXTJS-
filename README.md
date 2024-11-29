@@ -14,7 +14,6 @@ Additionally, it features:
 
 To enhance usability, a **settings menu** in the navbar allows administrators to switch between **light** and **dark** themes, offering a personalized user experience tailored to individual preferences.
 
----
 
 ## Installation
 

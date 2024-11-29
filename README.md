@@ -37,4 +37,4 @@ git clone https://github.com/NaveenEkanayake/Inventory_Management_Dashboard-NEXT
 
 ### 3. Run your project
 ---
-### npm run dev
+### npm start
